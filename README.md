@@ -1,8 +1,36 @@
-# React + Vite
+# My React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application created using Vite. It includes a reusable button component with customizable props.
 
-Currently, two official plugins are available:
+## Project Setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/my-react-app.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd my-react-app
+    ```
+
+3. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+### Running the Development Server
+
+To start the development server, run:
+
+```bash
+npm run dev
